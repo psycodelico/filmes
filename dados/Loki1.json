@@ -1,0 +1,14 @@
+{
+    "titulo": "Video 1",
+    "imagem": "https://m.media-amazon.com/images/I/81xETRmcFwL._AC_UF1000,1000_QL80_.jpg",
+    "episodios": [
+        {
+            "titulodoepisodio": "Ep 1",
+            "link": "https://download2389.mediafire.com/ep0gm6b5e8hgEXitOHYMk1RGplmv8WRGm0ref-xGCDKLOYyEMMXCKljNyBGvWMj3A9N9KS9yMRyzlkeAmnY8KRM__uqIPH5q-PjJinaU-wFaE4KkbBQBa9ftjka-hXzmKBoUyRA6BfocC5Z-rClK2qMRiVBkKKHXPxo8XKOIaszGyC4/3bgya4tubwi0cm7/ce325a632c9443b891ad1ab832f14529.mp4"
+        },
+        {
+            "titulodoepisodio": "Ep 2",
+            "link": "https://download2389.mediafire.com/ep0gm6b5e8hgEXitOHYMk1RGplmv8WRGm0ref-xGCDKLOYyEMMXCKljNyBGvWMj3A9N9KS9yMRyzlkeAmnY8KRM__uqIPH5q-PjJinaU-wFaE4KkbBQBa9ftjka-hXzmKBoUyRA6BfocC5Z-rClK2qMRiVBkKKHXPxo8XKOIaszGyC4/3bgya4tubwi0cm7/ce325a632c9443b891ad1ab832f14529.mp4"
+        }
+    ]
+}

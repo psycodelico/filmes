@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Catálogo de Filmes</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <header>
+    <img src="logo.png" alt="Logo da empresa">
+  </header>
+
+  <div class="catalog-container" id="catalogContainer">
+    <!-- Os filmes serão inseridos aqui via JavaScript -->
+  </div>
+
+  <div class="video-player-container" id="videoPlayerContainer">
+    <h2 class="episode-number" id="episodeNumber"></h2>
+    <div class="video-player-content">
+      <div class="top-bar">
+        <h2 class="episode-title" id="episodeTitle"></h2>
+      </div>
+      <video controls autoplay id="videoPlayer"></video>
+      <div class="bottom-bar">
+        <button class="previous-btn" id="previousBtn">Episódio Anterior</button>
+        <button class="next-btn" id="nextBtn">Próximo Episódio</button>
+        <button class="close-btn" id="closeBtn">&times;</button>
+      </div>
+    </div>
+  </div>
+
+  <script src="scripts.js"></script>
+</body>
+</html>
