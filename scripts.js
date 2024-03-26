@@ -1,5 +1,5 @@
-const filmes = ['AsMarvels.json', 'BesouroAzul.json', 'Oppenheimer.json', 'napoleao.json', 'deadpool1.json','deadpool2.json']; // Adicione mais filmes conforme necessário
-const series = ['Loki1.json', 'Loki2.json', 'GenV.json', 'LastOfUs.json', 'CavaleiroDaLua.json', 'Avatar.json']; 
+const filmes = ['AsMarvels.json']; // Adicione mais filmes conforme necessário
+const series = ['Brabo.json']; 
 const animes = []; 
 
 let currentEpisodeIndex = 0;
